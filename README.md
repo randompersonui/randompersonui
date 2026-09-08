@@ -269,16 +269,17 @@ Visual decisions should support the user's goal.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DesignMindedVignesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=818CF8&icon_color=6366F1&text_color=94A3B8&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=randompersonui&show_icons=true&hide_border=true&bg_color=00000000&title_color=818CF8&icon_color=6366F1&text_color=94A3B8&rank_icon=github" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesignMindedVignesh&layout=compact&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=94A3B8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randompersonui&layout=compact&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=94A3B8" height="165"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=DesignMindedVignesh&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakLabel=818CF8&sideLabels=94A3B8&dates=64748B"/>
+<img src="https://streak-stats.demolab.com?user=randompersonui&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakLabel=818CF8&sideLabels=94A3B8&dates=64748B"/>
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=randompersonui&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
 ---
 
 # 09 — CONTRIBUTIONS
